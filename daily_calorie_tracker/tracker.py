@@ -1,5 +1,5 @@
 # ==========================================================
-# Name: Your Name
+# Name: Harsh
 # Date: 10-Nov-2025
 # Project Title: Daily Calorie Tracker CLI
 # Course: Programming for Problem Solving using Python
@@ -91,3 +91,4 @@ else:
     print("Session not saved. Goodbye!")
 
 # ------------------- End of Program -------------------
+
