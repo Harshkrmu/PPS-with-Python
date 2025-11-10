@@ -90,7 +90,7 @@ Enter meal name: Dinner
 Enter calories for Dinner: 850
 Enter your daily calorie limit: 1500
 
-⚠️ WARNING: You have exceeded your daily calorie limit!
+**⚠️ WARNING: You have exceeded your daily calorie limit!
 Sample Run 3 (Save Session Log)
 pgsql
 Copy code
@@ -110,7 +110,7 @@ Dinner      550
 Total:      1500
 Average:    500.00
 Daily Limit:1500
-Status:     ✅ Within daily limit
+Status:     ✅ Within daily limit**
 =====================================
 🧠 Concepts Demonstrated
 Variables, loops, and conditionals
