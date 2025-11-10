@@ -132,7 +132,11 @@ Any external references used are limited to official Python documentation and ba
 
 🧑‍💻 Author
 Name: Harsh
+
 Email: 2501730062@krmangalam.edu.in
+
 Date: 10-Nov-2025
+
 github repository link: https://github.com/Harshkrmu/PPS-with-Python/
+
 Instructor: Sameer Farooq
