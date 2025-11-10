@@ -41,7 +41,7 @@ By completing this mini-project, you will learn to:
 daily_calorie_tracker/
 │
 ├── tracker.py # Main Python script
-├── calorie_log.txt # Session log file (auto-created if user chooses to save)
+├── calorie_log.txt # Session log file
 └── README.md # Project description and documentation
 
 yaml
@@ -67,30 +67,53 @@ Provide your daily calorie limit
 Optionally save the session log to a file
 
 **🧮 Sample Runs**
+
 Sample Run 1 (Within Limit)
+
 pgsql
+
 Copy code
+
 How many meals would you like to log today? 3
+
 Enter meal name: Breakfast
+
 Enter calories for Breakfast: 300
+
 Enter meal name: Lunch
+
 Enter calories for Lunch: 600
+
 Enter meal name: Dinner
+
 Enter calories for Dinner: 500
+
 Enter your daily calorie limit: 1600
 
+
 ✅ Great job! You are within your daily calorie limit.
+
 Sample Run 2 (Exceed Limit)
+
 pgsql
+
 Copy code
+
 How many meals would you like to log today? 2
+
 Enter meal name: Lunch
+
 Enter calories for Lunch: 900
+
 Enter meal name: Dinner
+
 Enter calories for Dinner: 850
+
 Enter your daily calorie limit: 1500
 
-🧠 Concepts Demonstrated
+
+**🧠 Concepts Demonstrated**
+
 Variables, loops, and conditionals
 
 Lists and data aggregation
@@ -103,12 +126,16 @@ String formatting using f-strings
 
 File handling using open(), write(), and context managers
 
-📜 Academic Integrity
+**📜 Academic Integrity**
+
 This project is an individual assignment.
+
 All code is original and written for academic purposes only.
+
 Any external references used are limited to official Python documentation and basic tutorials.
 
-🧑‍💻 Author
+**🧑‍💻 Author**
+
 Name: Harsh
 
 Email: 2501730062@krmangalam.edu.in
