@@ -66,52 +66,6 @@ Provide your daily calorie limit
 
 Optionally save the session log to a file
 
-**🧮 Sample Runs**
-
-Sample Run 1 (Within Limit)
-
-pgsql
-
-Copy code
-
-How many meals would you like to log today? 3
-
-Enter meal name: Breakfast
-
-Enter calories for Breakfast: 300
-
-Enter meal name: Lunch
-
-Enter calories for Lunch: 600
-
-Enter meal name: Dinner
-
-Enter calories for Dinner: 500
-
-Enter your daily calorie limit: 1600
-
-
-✅ Great job! You are within your daily calorie limit.
-
-Sample Run 2 (Exceed Limit)
-
-pgsql
-
-Copy code
-
-How many meals would you like to log today? 2
-
-Enter meal name: Lunch
-
-Enter calories for Lunch: 900
-
-Enter meal name: Dinner
-
-Enter calories for Dinner: 850
-
-Enter your daily calorie limit: 1500
-
-
 **🧠 Concepts Demonstrated**
 
 Variables, loops, and conditionals
