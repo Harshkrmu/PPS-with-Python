@@ -92,7 +92,7 @@ Any external references used are limited to official Python documentation and ba
 
 Name: Harsh
 
-Email: 2501730062@krmangalam.edu.in
+Email: harshescapematrix2008@gmail.com
 
 Date: 10-Nov-2025
 
