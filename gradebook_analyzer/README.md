@@ -1,12 +1,12 @@
-📘 README.md
-GradeBook Analyzer
+**📘 README.md**
+**GradeBook Analyzer**
 
 A Python-based command-line application that helps automate the analysis and reporting of student marks.
 This tool reads student data (manual input or CSV), computes statistics, assigns grades, and displays a formatted results table.
 
 This project is created as part of the Programming for Problem Solving using Python mini project.
 
-📂 Project Overview
+**📂 Project Overview**
 
 Lecturers often need a fast and accurate way to analyze student marks. Doing it manually is time-consuming and error-prone.
 The GradeBook Analyzer solves this problem by automating:
@@ -21,7 +21,8 @@ Pass/fail evaluation
 
 Tabular reporting
 
-🎯 Features
+**🎯 Features**
+
 ✔ 1. Data Input
 
 Manual entry of student names and marks
@@ -79,14 +80,14 @@ Perform new analysis
 
 Exit program
 
-📁 Project Structure
+**📁 Project Structure**
 gradebook_analyzer/
 │
 ├── gradebook.py       # Main program with all features
 ├── students.csv       # Sample CSV (for testing)
 └── README.md          # Project documentation
 
-📥 Sample CSV File
+**📥 Sample CSV File**
 
 A sample students.csv used for testing:
 
@@ -96,7 +97,7 @@ Charlie,66
 Disha,84
 Farhan,39
 
-▶️ How to Run the Program
+**▶️ How to Run the Program**
 Step 1: Open Terminal / Command Prompt
 
 Navigate to the project folder:
@@ -117,7 +118,7 @@ You will see:
 
 Follow the menu instructions to enter marks or load the CSV file.
 
-🧪 Testing Requirements
+**🧪 Testing Requirements**
 
 This project has been tested with:
 
@@ -125,7 +126,7 @@ This project has been tested with:
 
 ✔ At least 1 CSV file
 
-✨ Conclusion
+**✨ Conclusion**
 
 The GradeBook Analyzer is a simple, efficient, and modular Python tool that demonstrates core programming skills including:
 
